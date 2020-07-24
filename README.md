@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+So you have reached, I can show you what I have worked on.
+
+Recently I completed two assignments,
+1. Youtube Video Fetcher and Search APIs
+2. Mock Interview Booking Platform
+
+Will update it later.
+Bye ✌
+
 <!--
 **shubhpy/shubhpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
